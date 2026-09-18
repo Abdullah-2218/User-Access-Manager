@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Java compiled files
+bin/
+*.class
+
+# Generated Javadoc
+doc/
